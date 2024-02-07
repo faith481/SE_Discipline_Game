@@ -1,5 +1,5 @@
 SE_Disipline_Game
-This is a consistency and discipline in which we post progress of our software Engineering learning
+This is a consistency and discipline in which we post progress of our software Engineering learning 
 
 Let's go over the plan for our collaborative learning Treating this as a game, we'll engage in active coding for minimum hours daily, challenging ourselves to reach new heights. However, every game has its rules, and here are ours:
 
